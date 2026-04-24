@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-04-24T12:11:47.284143",
+    "event": "User added new profile fact: name = 'Tuấn'"
+  },
+  {
+    "timestamp": "2026-04-24T12:11:47.288153",
+    "event": "User added new profile fact: allergy = 'sữa bò'"
+  },
+  {
+    "timestamp": "2026-04-24T12:11:47.290700",
+    "event": "User updated allergy from 'sữa bò' to 'đậu nành'"
+  },
+  {
+    "timestamp": "2026-04-24T12:11:47.294767",
+    "event": "User added new profile fact: likes = 'xem phim'"
+  }
+]
